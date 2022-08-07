@@ -2,7 +2,7 @@
 
 ## ATS-20
 
-<img src="/ATS-20/Pictures/ATS-20_front.jpeg" data-canonical-src="/ATS-20/Pictures/ATS-20_front.jpeg" style="object-fit:contain; width:500px;"/><img src="/ATS-20/Pictures/ATS-20_back.jpg" data-canonical-src="/ATS-20/Pictures/ATS-20_back.jpg" style="object-fit:contain; width:500px;"/>
+<img src="/ATS-20/Pictures/ATS-20_front.jpeg" data-canonical-src="/ATS-20/Pictures/ATS-20_front.jpeg" style="object-fit:contain; width:350px;"/><img src="/ATS-20/Pictures/ATS-20_back.jpg" data-canonical-src="/ATS-20/Pictures/ATS-20_back.jpg" style="object-fit:contain; width:350px;"/>
 
 The schematic was traced back from original PCB by TB5CVN published [here](https://www.pcbway.com/project/shareproject/SI4732_SSB_AM_FM_HAM_RADIO.html) and should correspond to products sold as *"ATS-20"* and to some Si4735/Si4732 DIY radio PCB kits.
 
@@ -22,6 +22,6 @@ You can get more information about the Si4735/Si4732 radios from PU2CLR's [Githu
 
 ## ATS-20+
 
-<img src="/ATS-20%2B/Pictures/ATS-20+_front.jpg" data-canonical-src="/ATS-20%2B/Pictures/ATS-20+_front.jpg" style="object-fit:contain; width:500px;"/><img src="/ATS-20%2B/Pictures/ATS-20+_back.jpg" data-canonical-src="/ATS-20%2B/Pictures/ATS-20+_back.jpg" style="object-fit:contain; width:500px;"/>
+<img src="/ATS-20%2B/Pictures/ATS-20+_front.jpg" data-canonical-src="/ATS-20%2B/Pictures/ATS-20+_front.jpg" style="object-fit:contain; width:350px;"/><img src="/ATS-20%2B/Pictures/ATS-20+_back.jpg" data-canonical-src="/ATS-20%2B/Pictures/ATS-20+_back.jpg" style="object-fit:contain; width:350px;"/>
 
 ATS-20+ version of the schematic (most significant change is an addition of the FM filter and amplifier) will be added soon.
