@@ -24,4 +24,8 @@ You can get more information about the Si4735/Si4732 radios from PU2CLR's [Githu
 
 <img src="/ATS-20%2B/Pictures/ATS-20+_front.jpg" data-canonical-src="/ATS-20%2B/Pictures/ATS-20+_front.jpg" style="object-fit:contain; width:350px;"/><img src="/ATS-20%2B/Pictures/ATS-20+_back.jpg" data-canonical-src="/ATS-20%2B/Pictures/ATS-20+_back.jpg" style="object-fit:contain; width:350px;"/>
 
-ATS-20+ version of the schematic (most significant change is an addition of the FM filter and amplifier) will be added soon.
+ATS-20+ is a newer version of this device with some changes in schematic (most significant change is an addition of the FM filter and amplifier)
+
+Schematic is available as a [KiCAD 6.0 project](/ATS-20/ATS-20_Plus_Trace) and also in [PDF](/ATS-20%2B/ATS-20_Plus_Schematic.pdf).
+
+[Pictures](/ATS-20/Pictures) folder contains PCB and unit photos
